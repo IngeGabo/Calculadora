@@ -14,6 +14,9 @@ La V1 es una calculadora básica implementada en Python que realiza operaciones 
 - Funciones básicas de una calculadora en consola.
 - Manejo de excepciones para errores de entrada y matemáticos.
 
+###Diseño de la Calculadora V1
+![image](https://github.com/IngeGabo/Calculadora/assets/72628195/3681d756-3ef2-42f1-8d39-5370bc5be13f)
+
 ## Versión 2 (V2)
 
 La V2 introduce una interfaz gráfica usando Tkinter, mejora la experiencia del usuario con botones interactivos y muestra el cálculo en tiempo real.
@@ -26,6 +29,8 @@ La V2 introduce una interfaz gráfica usando Tkinter, mejora la experiencia del 
 - Transición de consola a interfaz gráfica.
 - Uso de Tkinter para crear la interfaz de usuario.
 
+###Diseño de la Calculadora V2
+![image](https://github.com/IngeGabo/Calculadora/assets/72628195/935baeda-d9b8-4d1e-a7ae-deb7094b4945)
 ## Versión 3 (V3)
 
 La V3 añade funcionalidades de memoria como MR, MC, M+, y M-, permitiendo al usuario almacenar y recuperar números durante los cálculos.
@@ -38,6 +43,8 @@ La V3 añade funcionalidades de memoria como MR, MC, M+, y M-, permitiendo al us
 - Mejoras en la gestión del estado interno de la calculadora.
 - Ademas de la correccion de errores encontrados durante las pruebas.
 
+###Diseño de la Calculadora V3
+![V3](https://github.com/IngeGabo/Calculadora/assets/72628195/262b6889-fbd2-4d49-bdbf-eb84320fae45)
 ## Versión 4 (V4)
 
 La V4 introduce la capacidad de manejar entradas de teclado, facilitando un flujo de trabajo más rápido y eficiente para el usuario.
@@ -49,6 +56,9 @@ La V4 introduce la capacidad de manejar entradas de teclado, facilitando un fluj
 - Manejo de eventos de teclado para todas las operaciones de la calculadora.
 - Optimización del flujo de trabajo y la interacción del usuario.
 - Ademas de la correccion de errores encontrados durante las pruebas.
+
+###Diseño de la Calculadora V4
+![image](https://github.com/IngeGabo/Calculadora/assets/72628195/185a17f5-d982-480b-8292-f80a909ddd64)
 
 ## Sección Técnica
 
